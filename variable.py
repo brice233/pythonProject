@@ -10,7 +10,7 @@ print(price)
 # next challenge is boalean value.
 price = 10
 rating = 4.9
-name = 'Mosh'
+name = 'Bryce'
 is_published = False
 print(price)
 
